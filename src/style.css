@@ -1,0 +1,33 @@
+body {
+  background-color: red;
+  color: white;
+}
+.icon {
+  width: 37px;
+  height: 37px;
+  border: 7px solid white;
+  background-color: white;
+  border-radius: 13px;
+  color: red;
+  text-align: center;
+}
+.h1 {
+  position: absolute;
+  top: -4px;
+  left: 29px;
+  font-size: xx-large;
+}
+button {
+  border: 4px solid white;
+  border-radius: 7px;
+  padding: 7px;
+  background-color: red;
+  font-weight: bolder;
+  color: white;
+}
+.h2 {
+  position: absolute;
+  top: -10px;
+  left: 24px;
+  font-size: xx-large;
+}
